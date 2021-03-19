@@ -7,11 +7,6 @@
         "你好 哈哈哈?",
         "你好 哈哈哈!"
     ],
-    "noon" : [
-        "你好 哈哈哈!",
-        "你好 哈哈哈?",
-        "你好 哈哈哈!"
-    ],
     "afternoon" : [
         "Hitting your stride!",
         "You are making a difference!",
@@ -21,10 +16,5 @@
         "Y你好 哈哈哈.",
         "Yo你好 哈哈哈.",
         "T你好 哈哈哈."
-    ],
-    "midnight" : [
-        "还不睡？",
-        "去上床",
     ]
-
 }
