@@ -25,5 +25,11 @@
     ],
     "cloudy": [
 			"Snowball battle!"
-		]
+		],
+    "fog": [
+			"下雾了"
+		],
+    "night_clear": [
+			"晴朗夜晚"
+		],
 }
