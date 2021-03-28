@@ -1,7 +1,5 @@
 {
-    "anytime" : [
-        ""
-    ],
+
     "cloudy": [
 			"Snowball battl1e!"
 		],
@@ -16,8 +14,10 @@
 		],
     "night_alt_cloudy_windy": [
 			"天气不好"
-		]
-
+		],
+    "anytime" : [
+        ""
+    ]
 
 
 
