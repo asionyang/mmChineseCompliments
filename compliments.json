@@ -1,27 +1,33 @@
 {
     "anytime" : [
-        "默认 哈哈哈"
+        "你好啊，大漂亮！"
     ],
+    "dawn" : [
+        "这就醒了？",
+        "不再睡会？",
+        "天马上就亮了"
+    ],	
     "morning" : [
-        "你好 哈哈哈!",
-        "你好 哈哈哈?",
-        "你好 哈哈哈!"
+        "早上好",
+        "你不会才起床吧?",
+        "加油！"
     ],
     "noon" : [
-        "你好 哈哈哈!",
-        "你好 哈哈哈?",
-        "你好 哈哈哈!"
+        "午饭要吃饱哦",
+        "小憩一下"
     ],
     "afternoon" : [
-        "Hitting your stride!",
+        "下午好啊",
         "You are making a difference!",
         "You're more fun than bubble wrap!"
     ],
     "evening" : [
-        "T晚上 哈哈哈."
+        "晚上来场电影吧！",
+	"愉快的一天要结束了",
     ],
     "midnight" : [
-        "Y还不睡."
+        "还不睡？",
+        "快去上床睡觉！"
     ],
     "cloudy": [
 			"Snowball battl1e!"
