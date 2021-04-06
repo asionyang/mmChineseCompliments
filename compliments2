@@ -1,0 +1,24 @@
+{
+
+    "cloudy": [
+			"Snowball battl1e!"
+		],
+    "fog": [
+			"下雾了"
+		],
+    "night_clear": [
+			"晴朗夜晚"
+		],
+    "day_clear": [
+			"晴朗夜晚"
+		],
+    "night_alt_cloudy_windy": [
+			"天气不好"
+		],
+    "anytime" : [
+        ""
+    ]
+
+
+
+}
